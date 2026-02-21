@@ -2,7 +2,7 @@
 👋 Hey, I'm Adam
 </h1>
 
-<p align="center">I'm a Full time Software Engineer keen to explore the world of technology 💯.</p>
+<p align="center">I'm a Software Engineer working in Australia.</p>
 
 <!--
 **Twouloo/Twouloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
