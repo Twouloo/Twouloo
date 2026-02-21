@@ -2,7 +2,7 @@
 👋 Hey, I'm Adam
 </h1>
 
-<p align="center">I'm a software engineer keen to explore the world of technology. Having completed my Bachelors of Computer Science at the Queensland University of Technology, I now work full time as a IT System Analyst at the ATO, and part time as a Front-End developer for AltitudeCode.</p>
+<p align="center">I'm a Full time Software Engineer keen to explore the world of technology 💯.</p>
 
 <!--
 **Twouloo/Twouloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
